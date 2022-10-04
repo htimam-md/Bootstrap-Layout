@@ -1,0 +1,31 @@
+
+.header, .hero,.body,.bar,.footer  {
+    background-color: teal;
+}
+.box{
+    margin:10px 0;
+    min-height: 80px;
+    background-color: red;
+    font-size: 30px;
+    color: white;
+}
+.box3{
+    background-color: tomato;
+}
+.box2{
+    background-color: hotpink
+}
+.clr{
+    background-color: lime;
+}
+.main{
+    border: 1px solid greenyellow;
+}
+.lft{
+    background-color: aqua;
+    border: 1px solid white;
+}
+.rgt{
+    background-color: chartreuse;
+    border: 1px solid rgb(224, 101, 14);
+}
